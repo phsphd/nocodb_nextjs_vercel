@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+.next/
+# Env files
+.env
+
+# Other unnecessary files
+.noco.db
+.nc/
+.idea/
+.next/
+package-lock.json
